@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed500d895cfaa34c83d92adca616bc4, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Sword
+  <Description>k__BackingField: Kirito
+  <ItemImage>k__BackingField: {fileID: -1204885738, guid: ccdd701db84eaba40a127e31ce524d65, type: 3}
+  <ItemLevel>k__BackingField: 1
+  <DefaultParametersList>k__BackingField:
+  - itemparameter: {fileID: 11400000, guid: de4f6f8ae408f4242a0354e9cf08d6dc, type: 2}
+    value: 100
+  itemStatInfo:
+  - statType: 0
+    statValue: 158
+  - statType: 1
+    statValue: 12222

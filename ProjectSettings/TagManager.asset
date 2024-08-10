@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - HellishSlash
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Environment
+  - Player
+  - Enemy
+  - Walkable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 3729680547
+    locked: 0
+  - name: Ground
+    uniqueID: 2035856837
+    locked: 0
+  - name: Wall
+    uniqueID: 1230767957
+    locked: 0
+  - name: Object
+    uniqueID: 1942762127
+    locked: 0
+  - name: Enemy
+    uniqueID: 786669887
+    locked: 0
+  - name: Player
+    uniqueID: 4192644087
+    locked: 0
+  - name: Top
+    uniqueID: 3969680175
+    locked: 0
+  - name: UI
+    uniqueID: 3082231765
+    locked: 0

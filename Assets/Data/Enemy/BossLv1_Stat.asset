@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5facdf67538844740853b3d955cedc24, type: 3}
+  m_Name: BossLv1_Stat
+  m_EditorClassIdentifier: 
+  nameObj: BossLv1
+  descriptionObj: 'Supper strong for newbie '
+  statsInfo:
+  - statType: 0
+    statValue: 5
+  - statType: 1
+    statValue: 5
+  - statType: 2
+    statValue: 50000
+  - statType: 3
+    statValue: 500
+  - statType: 4
+    statValue: 378
+  - statType: 5
+    statValue: 750
+  - statType: 6
+    statValue: 0.7
+  - statType: 7
+    statValue: 7
+  - statType: 8
+    statValue: 14
+  - statType: 9
+    statValue: 5
+  - statType: 10
+    statValue: 40
+  - statType: 14
+    statValue: 5000
+  - statType: 11
+    statValue: 16
